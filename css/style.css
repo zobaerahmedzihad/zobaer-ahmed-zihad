@@ -1,0 +1,55 @@
+
+.margin-control{
+margin-left: 30%;
+
+}
+.nike-react{
+    font-size: 420%;
+}
+
+
+#contact{
+    padding: 2% 10%;
+    background-color: rgb(42, 62, 177);
+}
+.bg-image{
+background-color: rgb(205, 230, 230);
+border-radius: 5%;
+}
+.card-heading{
+    color: rgb(50, 50, 167);
+}
+
+.casual-shoes{         /* Remove casual shoes border*/
+    border: none;
+}
+
+.doller-color{
+color: rgb(216, 11, 165);  /*Heilight shoes price */
+font-weight: 800px;
+}
+
+
+/* Feedback section start here */
+
+#feedback{
+padding: 2%;
+background-color: rgba(85, 173, 173, 0.685);
+
+}
+.feedback-image{
+width: 120px;
+height:auto;
+margin-bottom: 5px;
+font-style: italic;
+font-size: 2.2rem;
+
+}
+.carousel-item{
+    text-align: center;
+    padding: 7% 15%;
+}
+/* Feedback section End here */
+
+/*  section End here */
+
